@@ -1,6 +1,4 @@
-JSONLogic Editor
-==============
-Built complex rules authomatically by JSONLogic editor utilizing Blockly. All supported operations in JSONLogic structure are provided by Blockly blocks. Drag and drop blocks to make your own rule.
+JSONLogic Blockly Editor for conditional tags (experimental uncompleted project)
 
 References:
 
@@ -9,3 +7,5 @@ References:
 2- https://github.com/ens-lg4/MenulyJSON
 
 3- http://jsonlogic.com/
+
+4- https://github.com/katirasole/JSONLogic-Editor
